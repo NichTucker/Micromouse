@@ -7,7 +7,6 @@ Our project involves designing the power subsystem and the sensing subsystem for
 
 ## Subsystems
 ### Power Subsystem
-Responsible for powering the entire system, including running the motors and charging the battery
-
+Responsible for powering and controlling the power supplied to the entire system, running the motors of the micromouse and charging the battery that powers the mouse.
 ### Sensing Subsystem
-Responsible for detecting/sensing objects in front of the robot.
+Responsible for detecting/sensing objects in front of the micromouse.
