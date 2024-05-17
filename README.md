@@ -11,7 +11,7 @@ Responsible for powering and controlling the power supplied to the entire system
 ### Sensing Subsystem
 The sensor subsystem is responsible for detecting objects and ensuring that the micromouse maintains proper alignment within the maze pathways by sensing the walls around it.
 
-The sensing subsystem folder contains all the necessary files and documentation for the design and implementation of the sensor subsystem. These being the datasheets of the non-passive components used, LaTeX and PDF design report, KiCad schematics and files, and the gerber files
+The sensing subsystem folder contains all the necessary files and documentation for the design and implementation of the sensor subsystem. These being the datasheets of the non-passive components used, LaTeX and PDF design report, KiCad schematics and files, and the gerber files.
 
 
 
